@@ -7,10 +7,14 @@ title: "Syllabus"
 
 **Fall 2014**
 
-Instructor | Email | Office hours
----------- | ----- | ------------
-[David Babcock](http://faculty.ycp.edu/~dbabcock) | <dbabcock@ycp.edu> | TBA
-[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | <dhovemey@ycp.edu> | TBA
+Staff:
+
+> Instructor | Email | Office hours
+> ---------- | ----- | ------------
+> [David Babcock](http://faculty.ycp.edu/~dbabcock) | <dbabcock@ycp.edu> | TBA
+> [David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | <dhovemey@ycp.edu> | M 10-12, T/Th 2-3, W 9-10
+
+Meeting times: Monday, 12-12:50 in KEC 118
 
 ## Course Description
 
