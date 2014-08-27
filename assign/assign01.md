@@ -48,7 +48,7 @@ Your group may add additional labels as desired.
 
 Your third task is for each group member to set up a computing environment with the hardware and software you will need for the project.
 
-You can use the physical space and equipment in KEC 118 as follows: As you are looking towards the back of the room, you will see four blocks of tables on the sides of the room.  Each block *except for the one closest to the door* is available for your team to use.  Each team member may set up a PC and monitor(s) from the ones available in the center of the room.
+You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other groups, and please try to keep the environment neat and well-organized.
 
 Please note that you aren't required to use one of the PCs: you can use your own laptop if you would prefer.  Also note that physical space is somewhat limited, and that it may not be feasible for all of the students in the course to have a physical work area.
 
