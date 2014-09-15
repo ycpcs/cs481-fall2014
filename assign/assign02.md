@@ -5,8 +5,6 @@ title: "Weekly Progress Demos"
 
 # Expectations for Weekly Demos
 
-*This is a draft; it may change*
-
 Here are what we would like to see from you for the weekly (Monday) demos.
 
 ## Journal entries (individual)
@@ -17,13 +15,15 @@ Each team member should have an issue in the group's issue tracker.  Each week, 
 * Design work
 * Implementation (with links to specific commits)
 
+Please format your entry as a *bulleted list*.
+
 You can create a link to a commit by pasting the first 8 (or so) hex digits of its hash code.
 
-Your journal entries should be complete by the end of day of the Friday before the Monday demo.
+Your journal entries should be complete by midnight on Sunday (so we can use Monday morning to read your entries.)
 
 ## Demo (team)
 
-In your team's weekly demo, you have about 8 minutes to convince us that your team made a reasonable amount of progress for the week.
+In your team's weekly demo, you have about 5 minutes to convince us that your team made a reasonable amount of progress for the week.
 
 Here are some of the ways you can demonstrate progress:
 
