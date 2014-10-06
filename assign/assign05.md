@@ -3,7 +3,7 @@ layout: default
 title: "Minimal Working System"
 ---
 
-**Due: Monday, Oct 13th**
+**Due: Monday, Oct 20th**
 
 This is a **Team** assignment.
 

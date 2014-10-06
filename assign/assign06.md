@@ -3,7 +3,7 @@ layout: default
 title: "50% Working System"
 ---
 
-**Presentation: in class Monday, Nov 3rd**
+**Presentation: in class Monday, Nov 10th**
 
 This is a **Team** assignment.
 
